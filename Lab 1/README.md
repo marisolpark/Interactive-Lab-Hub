@@ -141,8 +141,10 @@ Goal    : To allow the user to read the dial in the dark without needing to turn
 **Story boards**
 
 ***Iteration 1: copy of add***
+Showing simple action and reaction of watch. Press the crown and the dial lights up.
 
 ***Iteration 2: Our version (Ben Ten themed)***
+Adding our fun twist
 
 ***iteration 3: changes after acting out the scene one time***
 
