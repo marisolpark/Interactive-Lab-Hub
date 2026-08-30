@@ -2,12 +2,14 @@
 
 _This project is to be done in teams of 2._
 
-**NAME OF BOTH COLLABORATOR(S) HERE**
+**NAME OF BOTH COLLABORATOR(S) HERE: Marisol Park and Neeha Ravula**
 
-**THE MASTERWORK YOU DREW FROM THE HAT:**
+**THE MASTERWORK YOU DREW FROM THE HAT:Indiglo Timex**
+
+**LINK TO ORIGINAL LAB GITHUB PAGE: [https://github.com/IRL-CT/Interactive-Lab-Hub/blob/HEAD/Lab%201/README.md](https://github.com/IRL-CT/Interactive-Lab-Hub/blob/HEAD/Lab%201/README.md)
 
 ---
-
+<!-- 
 One way to understand greatness is to look to the greats. Just as painters learn
 the technique and artistry of the old masters by recreating their paintings, so
 too shall we come to understand computer-mediated interaction by recreating the
@@ -46,6 +48,7 @@ To start, you will need:
    format a README [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 4. **Draw your masterwork from the hat and write it at the top of this file.**
    Whatever you drew is yours — lean into it.
+-->
 
 ## Materials
 
@@ -79,6 +82,7 @@ page.
 
 ## Part 0. Know Your Master
 
+<!-- 
 Before you prototype anything, get intimately acquainted with the piece you
 drew. Do real research. You are looking less for trivia than for the *shape of
 the interaction*:
@@ -91,9 +95,20 @@ the interaction*:
 
 **Describe your masterwork here, in your own words. What is the core interaction
 someone would recognize it by?**
+-->
+
+The Timex Indiglo watches were initially released in 1992 by the company Timex as their response to the major challenges that came with trying to read a watch in the dark. These devices allowed users to simply tap the crown on the side, which would trigger the electroluminescent technology that backlit the dial, and easily read the time. No need to get up and switch on a light or move around to a better lit place.
+
+The biggest strengths of these watches were that they offered a long-lasting, safe way to read the time in low light. Based on the Hodinkee article, "In-DepthShining A Light On Timex Indiglo," pre-Indiglo technology, watchmakers discovered that a mix of radium and zinc sulfide could also create a glow-in-the-dark effect in the dial. However, this would quickly wear off and expose users to radioactive danger. Instead, Timex came up with a solution that solved all three problems: electroluminescent panels. 
+
+Sources:
+- [Indiglo: A Luminous History](https://timex.com/blogs/the-timex-blog/indiglo%C2%AE-a-luminous-history)
+- [In-DepthShining A Light On Timex Indiglo](https://www.hodinkee.com/articles/shining-a-light-on-timex-indiglo)
+- [Timex Indiglo two watches commercial 1993](https://www.youtube.com/watch?v=XZMk6H3UkDs)
 
 ## Part A. Plan
 
+<!-- 
 For your masterwork, reconstruct the interaction as a scene:
 
 - **Setting:** Where and when does this interaction happen? (a jungle, a kitchen,
@@ -115,6 +130,26 @@ and the people around it. If you're new to storyboarding, read
 Use the storyboards to decide what interaction to prototype.
 
 **Summarize the feedback you got here.**
+-->
+**Basic Info**
+Setting : In the dark
+Players : The watch user and the operator controling the light on cue
+Activity: The player in the dark is pressing the crown of the watch to turn on it's light and see the dial
+Goal    : To allow the user to read the dial in the dark without needing to turn on a light
+
+
+**Story boards**
+
+***Iteration 1: copy of add***
+
+***Iteration 2: Our version (Ben Ten themed)***
+
+***iteration 3: changes after acting out the scene one time***
+
+**Feedback**
+placeholder
+
+
 
 ## Part B. Act out the Interaction
 
