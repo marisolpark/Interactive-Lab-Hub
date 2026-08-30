@@ -141,15 +141,15 @@ Goal    : To allow the user to read the dial in the dark without needing to turn
 
 ***Iteration 1: copy of add***
 Showing simple action and reaction of watch. Press the crown and the dial lights up.
-![storyboard 1](Interactive-Lab-Hub/Lab1/storyboard_1.jpg)
+![Storyboard 1](storyboard_1.jpg)
 
 ***Iteration 2: Our version (Ben Ten themed)***
 Adding our fun twist with some inspiration from Ben 10
-![storyboard2](Interactive-Lab-Hub/Lab1/storyboard_2.jpg)
+![Storyboard 2](storyboard_2.jpg)
 
 ***iteration 3: changes after acting out the scene one time***
 After acting out the interaction and playing around with the tinkerbell program, we noticed some of the restrictions we would have to work on. To acoomodate for these, we decided to minimize the angles (only front angles) and adjust the light feedback to fit what tinkerbell could do.
-![storyboard3](Interactive-Lab-Hub/Lab1/storyboard_3.jpg)
+![Storyboard 3](storyboard_3.jpg)
 
 **Feedback**
 placeholder
