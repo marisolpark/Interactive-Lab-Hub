@@ -6,7 +6,7 @@ _This project is to be done in teams of 2._
 
 **THE MASTERWORK YOU DREW FROM THE HAT:Indiglo Timex**
 
-**LINK TO ORIGINAL LAB GITHUB PAGE: [https://github.com/IRL-CT/Interactive-Lab-Hub/blob/HEAD/Lab%201/README.md](https://github.com/IRL-CT/Interactive-Lab-Hub/blob/HEAD/Lab%201/README.md)
+[**LINK TO ORIGINAL LAB GITHUB PAGE: https://github.com/IRL-CT/Interactive-Lab-Hub/blob/HEAD/Lab%201/README.md](https://github.com/IRL-CT/Interactive-Lab-Hub/blob/HEAD/Lab%201/README.md)
 
 ---
 <!-- 
@@ -205,7 +205,7 @@ video feed of whichever scene you want to capture.)
 
 **Include your first attempts at recording the wizarded set-up here.**
 -->
-First attempt (take 1):
+[First attempt (take 1): https://youtu.be/42269kgHxoI](https://youtu.be/42269kgHxoI)
 
 
 ## Part E. (optional) Costume the Device
@@ -241,7 +241,7 @@ acknowledging their contributions, and credit any other influences (YouTube,
 Github, Twitter, a friend who lent you a lamp) that informed your recreation.
 -->
 
-Final attempt (take 7):
+[Final attempt (take 7): https://youtu.be/3fDFrM_SdIQ](https://youtu.be/3fDFrM_SdIQ)
 
 ---
 
