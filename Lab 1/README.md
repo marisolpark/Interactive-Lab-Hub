@@ -81,7 +81,6 @@ page.
 # The Report
 
 ## Part 0. Know Your Master
-
 <!-- 
 Before you prototype anything, get intimately acquainted with the piece you
 drew. Do real research. You are looking less for trivia than for the *shape of
@@ -107,7 +106,6 @@ Sources:
 - [Timex Indiglo two watches commercial 1993](https://www.youtube.com/watch?v=XZMk6H3UkDs)
 
 ## Part A. Plan
-
 <!-- 
 For your masterwork, reconstruct the interaction as a scene:
 
@@ -131,6 +129,7 @@ Use the storyboards to decide what interaction to prototype.
 
 **Summarize the feedback you got here.**
 -->
+
 **Basic Info**
 Setting : In the dark
 Players : The watch user and the operator controling the light on cue
@@ -142,19 +141,22 @@ Goal    : To allow the user to read the dial in the dark without needing to turn
 
 ***Iteration 1: copy of add***
 Showing simple action and reaction of watch. Press the crown and the dial lights up.
+![storyboard 1](Interactive-Lab-Hub/Lab1/storyboard_1.jpg)
 
 ***Iteration 2: Our version (Ben Ten themed)***
-Adding our fun twist
+Adding our fun twist with some inspiration from Ben 10
+![storyboard2](Interactive-Lab-Hub/Lab1/storyboard_2.jpg)
 
 ***iteration 3: changes after acting out the scene one time***
+After acting out the interaction and playing around with the tinkerbell program, we noticed some of the restrictions we would have to work on. To acoomodate for these, we decided to minimize the angles (only front angles) and adjust the light feedback to fit what tinkerbell could do.
+![storyboard3](Interactive-Lab-Hub/Lab1/storyboard_3.jpg)
 
 **Feedback**
 placeholder
 
 
-
 ## Part B. Act out the Interaction
-
+<!-- 
 Physically act out the interaction you planned. For now, just pretend the light
 is doing what you've scripted — a person can wave a flashlight, or you can narrate
 it aloud.
@@ -166,8 +168,17 @@ it aloud.
 **Are there key moments in the interaction where things could go in a different direction?**
 Iterate your storyboards to capture key non-sequential aspects of the interaction. 
 
-## Part C. Prototype the Light (light first!)
+-->
+After acting out the sequence:
+- We noticed that we needed to add a reason that would lead the player to check their watch
+- We decided we would need to use 2 colors, red and green, to diffirentiate the different feedback the watch was giving the user
+- We also concluded that since we would be using a zoom recording to record the interaction, we would need to change some of the angles in the video.
+- These is all reflected in the last storyboard above
 
+
+
+## Part C. Prototype the Light (light first!)
+<!-- 
 Use your smartphone as the light of your device. Open the browser on your phone
 to act as the "light," and use the remote control interface on your computer to
 change that light. Code and setup instructions for the *Tinkerbelle* tool are
@@ -181,18 +192,24 @@ way it answers a person. Only once your light interaction genuinely reads as you
 masterwork should you consider layering in a second modality (sound, vibration,
 motion). If in doubt, keep polishing the light. The other modalities are next
 week's business.
+-->
+
+We got the light working!
 
 ## Part D. Wizard the Device
-
+<!-- 
 Set up a "wizard" arrangement so one person can secretly drive the light while
 another acts with it — this is how you make the device feel alive without
 building any real electronics. (Zoom works well for recording; you can pin the
 video feed of whichever scene you want to capture.)
 
 **Include your first attempts at recording the wizarded set-up here.**
+-->
+First attempt (take 1):
+
 
 ## Part E. (optional) Costume the Device
-
+<!-- 
 Only now should you worry about what the device looks like. Costume your phone so it reads
 as the object from your masterwork — HAL's eye, a Simon shell, a paper-lantern
 Tinker Bell, an Ambient Orb, a lighthouse, a jack-o'-lantern, whatever you drew.
@@ -204,9 +221,15 @@ and calm for a bedroom?
 **Include sketches/photos of what your device might look like here.**
 
 **What concerns or opportunities shaped the way you designed its look?**
+-->
+
+We wanted the phone to look more like a watch to bring it closer to the real experience of using the device as it was meat to be. 
+
+Photo of our "custome" (making the phone look like a watch):
+
 
 ## Part F. Record
-
+<!-- 
 **Record your prototyped interaction as a video sketch.** Aim for the bar from
 the top of this lab: a viewer who knows the piece should recognize it; a viewer
 who doesn't should come away understanding what it's famous for. How might you illustrate the non-sequential aspects of the interaction in the sketch?
@@ -216,6 +239,9 @@ who doesn't should come away understanding what it's famous for. How might you i
 **Please indicate who you collaborated with on this lab.** Be generous in
 acknowledging their contributions, and credit any other influences (YouTube,
 Github, Twitter, a friend who lent you a lamp) that informed your recreation.
+-->
+
+Final attempt (take 7):
 
 ---
 
