@@ -2,9 +2,9 @@
 
 _This project is to be done in teams of 2._
 
-**NAME OF BOTH COLLABORATOR(S) HERE: Marisol Park and Neeha Ravula**
+**NAME OF BOTH COLLABORATOR(S) HERE: Marisol Park (mp2365) and Neeha Ravula (nr485)**
 
-**THE MASTERWORK YOU DREW FROM THE HAT:Indiglo Timex**
+**THE MASTERWORK YOU DREW FROM THE HAT: Timex Indiglo 1992**
 
 [**LINK TO ORIGINAL LAB GITHUB PAGE: https://github.com/IRL-CT/Interactive-Lab-Hub/blob/HEAD/Lab%201/README.md](https://github.com/IRL-CT/Interactive-Lab-Hub/blob/HEAD/Lab%201/README.md)
 
@@ -49,7 +49,7 @@ To start, you will need:
 4. **Draw your masterwork from the hat and write it at the top of this file.**
    Whatever you drew is yours — lean into it.
 -->
-
+<!--
 ## Materials
 
 For this lab you will need:
@@ -75,7 +75,7 @@ shared.
 
 Labs are due on Mondays. Make sure this page is linked from your main class hub
 page.
-
+-->
 ---
 
 # The Report
@@ -131,24 +131,24 @@ Use the storyboards to decide what interaction to prototype.
 -->
 
 **Basic Info**
-Setting : In the dark
-Players : The watch user and the operator controling the light on cue
-Activity: The player in the dark is pressing the crown of the watch to turn on it's light and see the dial
-Goal    : To allow the user to read the dial in the dark without needing to turn on a light
+Setting : In a dark room at night
+Players : The watch user (Ben 10), a person asking for help from a distance, and the hidden operator controlling the light on cue
+Activity: Ben 10 is woken up by his blinking watch, informing him about a villain’s attack nearby (he can also hear the distant screams from someone). He checks his watch in the dark to learn more about the attack. Then, he decides it is time to help and twists the crown of his watch to transform into a hero. 
+Goal    : Show that the glow-in-the-dark feature (Indiglo) in Ben's watch allows him to quickly stay informed about the situation at hand and select the correct alien to transform into. All without having to waste time turning on his light. 
 
 
 **Story boards**
 
 ***Iteration 1: copy of add***
-Showing simple action and reaction of watch. Press the crown and the dial lights up.
+Showing simple action and reaction of the Indiglo watch. Press the crown and the dial lights up, allowing the user to easily read the time in the dark.
 ![Storyboard 1](storyboard_1.jpg)
 
 ***Iteration 2: Our version (Ben Ten themed)***
-Adding our fun twist with some inspiration from Ben 10
+Adding our fun twist with some inspiration from Ben 10, we came up with a storyline that would feature him using the watch in the dark.
 ![Storyboard 2](storyboard_2.jpg)
 
 ***iteration 3: changes after acting out the scene one time***
-After acting out the interaction and playing around with the tinkerbell program, we noticed some of the restrictions we would have to work on. To acoomodate for these, we decided to minimize the angles (only front angles) and adjust the light feedback to fit what tinkerbell could do.
+After acting out the interaction and playing around with the Tinkerbell tool, we noticed some of the restrictions we would have to work on. To accommodate these, we decided to minimize the angles (only front angles) and adjust the light feedback to fit what Tinkerbell could do.
 ![Storyboard 3](storyboard_3.jpg)
 
 **Feedback**
@@ -169,11 +169,12 @@ it aloud.
 Iterate your storyboards to capture key non-sequential aspects of the interaction. 
 
 -->
-After acting out the sequence:
+After acting out the sequence we discovered:
 - We noticed that we needed to add a reason that would lead the player to check their watch
-- We decided we would need to use 2 colors, red and green, to diffirentiate the different feedback the watch was giving the user
-- We also concluded that since we would be using a zoom recording to record the interaction, we would need to change some of the angles in the video.
-- These is all reflected in the last storyboard above
+- We decided we would need to use 2 colors, red and green, to differentiate the different feedback the watch was giving the user (red for warning / green for alien selection)
+- We also concluded that since we would be using a zoom recording to record the interaction, we would need to change some of the angles in the video so that the light from the "watch" was visible
+- We realized that to make the alien selection more realistic, we would need to add some changes in light brightness to communicate how Ben was looking through aliens before making a selection
+- This is all reflected in the last storyboard above
 
 
 
@@ -193,8 +194,11 @@ masterwork should you consider layering in a second modality (sound, vibration,
 motion). If in doubt, keep polishing the light. The other modalities are next
 week's business.
 -->
+For this week, we focused on the light interactions by themselves.
 
-We got the light working!
+For this project, we used the Tinkerbell tool, with the phone acting as the watch and the computer acting as the controller for the interactions. We used different color swatches (green/red) to communicate different actions with the watch and used the slider to manage the brightness of the light. 
+
+Tinkerbell feedback: We were able to make the tool work for our story. However, we would have benefited from a designated brightness slider and the ability to set our own custom color swatches. 
 
 ## Part D. Wizard the Device
 <!-- 
@@ -205,6 +209,8 @@ video feed of whichever scene you want to capture.)
 
 **Include your first attempts at recording the wizarded set-up here.**
 -->
+
+We recorded the video in Zoom, with one of us acting as Ben 10 interacting with the watch, and the other off-camera controlling the light so that it coordinated with Ben's movements.
 [First attempt (take 1): https://youtu.be/42269kgHxoI](https://youtu.be/42269kgHxoI)
 
 
@@ -226,6 +232,7 @@ and calm for a bedroom?
 We wanted the phone to look more like a watch to bring it closer to the real experience of using the device as it was meat to be. 
 
 Photo of our "custome" (making the phone look like a watch):
+
 
 
 ## Part F. Record
