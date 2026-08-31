@@ -232,7 +232,7 @@ and calm for a bedroom?
 We wanted the phone to look more like a watch to bring it closer to the real experience of using the device as it was meat to be. 
 
 Photo of our "custome" (making the phone look like a watch):
-
+![watch custome](watch.png)
 
 
 ## Part F. Record
@@ -249,6 +249,11 @@ Github, Twitter, a friend who lent you a lamp) that informed your recreation.
 -->
 
 [Final attempt (take 7): https://youtu.be/3fDFrM_SdIQ](https://youtu.be/3fDFrM_SdIQ)
+
+Collaborators:
+- Neeha Ravula (wizard controller & person in danger)
+- Marisol Park (Ben 10)
+- Inspirations from Ben 10 cartoon
 
 ---
 
